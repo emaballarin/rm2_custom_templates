@@ -1,6 +1,6 @@
 # License
 
-The contents of this repositories are licensed as follows:
+The contents of this repository are licensed as follows:
 
 - `checklist_portrait.*`, `dots_micro.*`, `grid_micro.*`, parts of `templates.additions.json` under a [*Generic Personal Use Licence*](https://github.com/DanielRunningen/rM2Mods/blob/main/LICENCE.md):
   
