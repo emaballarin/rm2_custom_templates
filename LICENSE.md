@@ -1,10 +1,13 @@
 # License
 
 The contents of this repository are licensed as follows:
+<br>
 
 - `checklist_portrait.*`, `dots_micro.*`, `grid_micro.*`, parts of `templates.additions.json` under a [*Generic Personal Use Licence*](https://github.com/DanielRunningen/rM2Mods/blob/main/LICENCE.md):
   
   `Version 1.0, 26 March 2021 Copyright (C) 2021 Daniel Runningen`
+
+<br>
 
 - `inbox.*`, `project_inbox.*` under the [Apache License 2.0](https://github.com/BartKeulen/remarkable-gtd-templates/blob/main/LICENSE):
 
@@ -24,7 +27,9 @@ The contents of this repository are licensed as follows:
   limitations under the License.
   ```
 
-- `load.ps1`, original parts of `templates.additions.json` freely inspired by [the work of Mehmet Sencer Karadayi](https://github.com/msencer/remarkable_templates) and licensed under the [MIT License](./MITLICENSE.md):
+<br>
+
+- `load.ps1`, original parts of `templates.additions.json` inspired by [the work of Mehmet Sencer Karadayi](https://github.com/msencer/remarkable_templates) and licensed under the [MIT License](./MITLICENSE.md):
 
   ```
   Copyright 2021-2022 Mehmet Sencer Karadayi, Emanuele Ballarin
