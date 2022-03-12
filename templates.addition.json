@@ -1,6 +1,5 @@
 {
-    "templates":
-[
+  "templates": [
     {
       "name": "Inbox Project",
       "filename": "project_inbox",
@@ -49,5 +48,5 @@
         "Custom"
       ]
     }
-]
+  ]
 }
