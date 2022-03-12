@@ -1,0 +1,53 @@
+{
+    "templates":
+[
+    {
+      "name": "Inbox Project",
+      "filename": "project_inbox",
+      "iconCode": "\ue98f",
+      "categories": [
+        "Life/organize",
+        "GTD",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Inbox",
+      "filename": "inbox",
+      "iconCode": "\ue98f",
+      "categories": [
+        "Life/organize",
+        "GTD",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Checklist lined",
+      "filename": "checklist_portrait",
+      "iconCode": "\ue98f",
+      "categories": [
+        "Life/organize",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Dots micro",
+      "filename": "dots_micro",
+      "iconCode": "\ue995",
+      "categories": [
+        "Creative",
+        "Grids",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Grid micro",
+      "filename": "grid_micro",
+      "iconCode": "\ue99e",
+      "categories": [
+        "Grids",
+        "Custom"
+      ]
+    }
+]
+}
