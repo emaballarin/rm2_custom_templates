@@ -3,7 +3,7 @@
     {
       "name": "Blank",
       "filename": "Blank",
-      "iconCode": "εº╛",
+      "iconCode": "",
       "categories": [
         "Creative",
         "Lines",
@@ -14,7 +14,7 @@
     {
       "name": "Blank",
       "filename": "Blank",
-      "iconCode": "εº╜",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative",
@@ -26,7 +26,7 @@
     {
       "name": "Checklist double",
       "filename": "LS Checklist double",
-      "iconCode": "εª¬",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -35,7 +35,7 @@
     {
       "name": "Checklist",
       "filename": "LS Checklist",
-      "iconCode": "εª½",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -44,7 +44,7 @@
     {
       "name": "Dayplanner",
       "filename": "LS Dayplanner",
-      "iconCode": "εª¼",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -53,7 +53,7 @@
     {
       "name": "Dots bottom",
       "filename": "LS Dots bottom",
-      "iconCode": "εª¡",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative",
@@ -63,7 +63,7 @@
     {
       "name": "Dots top",
       "filename": "LS Dots top",
-      "iconCode": "εª┤",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative",
@@ -73,7 +73,7 @@
     {
       "name": "Grid bottom",
       "filename": "LS Grid bottom",
-      "iconCode": "εª╢",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Grids"
@@ -82,7 +82,7 @@
     {
       "name": "Grid margin large",
       "filename": "LS Grid margin large",
-      "iconCode": "εª╝",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Grids"
@@ -91,7 +91,7 @@
     {
       "name": "Grid margin med",
       "filename": "LS Grid margin med",
-      "iconCode": "εºë",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Grids"
@@ -100,7 +100,7 @@
     {
       "name": "Grid top",
       "filename": "LS Grid top",
-      "iconCode": "εª╖",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Grids"
@@ -109,7 +109,7 @@
     {
       "name": "Lined bottom",
       "filename": "LS Lines bottom",
-      "iconCode": "εª║",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Lines"
@@ -118,7 +118,7 @@
     {
       "name": "Lined medium",
       "filename": "LS Lines medium",
-      "iconCode": "εª╕",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Lines"
@@ -127,7 +127,7 @@
     {
       "name": "Lined small",
       "filename": "LS Lines small",
-      "iconCode": "εª╣",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Lines"
@@ -136,7 +136,7 @@
     {
       "name": "Lined top",
       "filename": "LS Lines top",
-      "iconCode": "εª╗",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Lines"
@@ -145,7 +145,7 @@
     {
       "name": "Margin medium",
       "filename": "LS Margin medium",
-      "iconCode": "εºê",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Lines"
@@ -154,7 +154,7 @@
     {
       "name": "Margin small",
       "filename": "LS Margin small",
-      "iconCode": "εºè",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Lines"
@@ -163,7 +163,7 @@
     {
       "name": "One storyboard 1",
       "filename": "LS One storyboard",
-      "iconCode": "εºî",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -172,7 +172,7 @@
     {
       "name": "One storyboard 2",
       "filename": "LS One storyboard 2",
-      "iconCode": "εºï",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -181,7 +181,7 @@
     {
       "name": "One storyboard",
       "filename": "P One storyboard",
-      "iconCode": "εºö",
+      "iconCode": "",
       "categories": [
         "Life/organize"
       ]
@@ -189,7 +189,7 @@
     {
       "name": "Two storyboards",
       "filename": "P Two storyboards",
-      "iconCode": "εºù",
+      "iconCode": "",
       "categories": [
         "Life/organize"
       ]
@@ -197,7 +197,7 @@
     {
       "name": "Two storyboards",
       "filename": "LS Two storyboards",
-      "iconCode": "εºì",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -206,7 +206,7 @@
     {
       "name": "Four storyboards",
       "filename": "LS Four storyboards",
-      "iconCode": "εª╡",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -215,7 +215,7 @@
     {
       "name": "Four storyboards",
       "filename": "P Four storyboards",
-      "iconCode": "εªù",
+      "iconCode": "",
       "categories": [
         "Life/organize"
       ]
@@ -223,7 +223,7 @@
     {
       "name": "Weekplanner US",
       "filename": "LS Week US",
-      "iconCode": "εºÄ",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -232,7 +232,7 @@
     {
       "name": "Weekplanner",
       "filename": "LS Week",
-      "iconCode": "εºÅ",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Life/organize"
@@ -241,7 +241,7 @@
     {
       "name": "Checklist",
       "filename": "P Checklist",
-      "iconCode": "εªÅ",
+      "iconCode": "",
       "categories": [
         "Life/organize"
       ]
@@ -249,7 +249,7 @@
     {
       "name": "Cornell",
       "filename": "P Cornell",
-      "iconCode": "εº┐",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -257,7 +257,7 @@
     {
       "name": "Dayplanner",
       "filename": "P Day",
-      "iconCode": "εªæ",
+      "iconCode": "",
       "categories": [
         "Life/organize"
       ]
@@ -265,7 +265,7 @@
     {
       "name": "Dots S bottom",
       "filename": "P Dots S bottom",
-      "iconCode": "εªô",
+      "iconCode": "",
       "categories": [
         "Creative",
         "Grids"
@@ -274,7 +274,7 @@
     {
       "name": "Dots S top",
       "filename": "P Dots S top",
-      "iconCode": "εªû",
+      "iconCode": "",
       "categories": [
         "Creative",
         "Grids"
@@ -283,7 +283,7 @@
     {
       "name": "Dots S",
       "filename": "P Dots S",
-      "iconCode": "εªò",
+      "iconCode": "",
       "categories": [
         "Creative",
         "Grids"
@@ -292,7 +292,7 @@
     {
       "name": "Dots large",
       "filename": "P Dots large",
-      "iconCode": "εªö",
+      "iconCode": "",
       "categories": [
         "Creative",
         "Grids"
@@ -301,7 +301,7 @@
     {
       "name": "Dots S",
       "filename": "P Dots S",
-      "iconCode": "εº╣",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative",
@@ -311,7 +311,7 @@
     {
       "name": "Dots large",
       "filename": "P Dots large",
-      "iconCode": "εº╕",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative",
@@ -321,7 +321,7 @@
     {
       "name": "Grid bottom",
       "filename": "P Grid bottom",
-      "iconCode": "εªÖ",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -329,7 +329,7 @@
     {
       "name": "Grid large",
       "filename": "P Grid large",
-      "iconCode": "εªÜ",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -337,7 +337,7 @@
     {
       "name": "Grid medium",
       "filename": "P Grid medium",
-      "iconCode": "εª¥",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -345,7 +345,7 @@
     {
       "name": "Grid small",
       "filename": "P Grid small",
-      "iconCode": "εª₧",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -353,7 +353,7 @@
     {
       "name": "Grid large",
       "filename": "P Grid large",
-      "iconCode": "εº╝",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Grids"
@@ -362,7 +362,7 @@
     {
       "name": "Grid medium",
       "filename": "P Grid medium",
-      "iconCode": "εº╗",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Grids"
@@ -371,7 +371,7 @@
     {
       "name": "Grid small",
       "filename": "P Grid small",
-      "iconCode": "εº║",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Grids"
@@ -380,7 +380,7 @@
     {
       "name": "Grid margin large",
       "filename": "P Grid margin large",
-      "iconCode": "εª¢",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -388,7 +388,7 @@
     {
       "name": "Grid margin med",
       "filename": "P Grid margin med",
-      "iconCode": "εª£",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -396,7 +396,7 @@
     {
       "name": "Grid top",
       "filename": "P Grid top",
-      "iconCode": "εªƒ",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -404,7 +404,7 @@
     {
       "name": "Lined bottom",
       "filename": "P Lined bottom",
-      "iconCode": "εªÑ",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -412,7 +412,7 @@
     {
       "name": "Lined heading",
       "filename": "P Lined heading",
-      "iconCode": "εªá",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -420,7 +420,7 @@
     {
       "name": "Lined top",
       "filename": "P Lined top",
-      "iconCode": "εª⌐",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -428,7 +428,7 @@
     {
       "name": "Lined large",
       "filename": "P Lines large",
-      "iconCode": "εªª",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -436,7 +436,7 @@
     {
       "name": "Lined medium",
       "filename": "P Lines medium",
-      "iconCode": "εªº",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -444,7 +444,7 @@
     {
       "name": "Lined small",
       "filename": "P Lines small",
-      "iconCode": "εª¿",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -452,7 +452,7 @@
     {
       "name": "Margin large",
       "filename": "P Margin large",
-      "iconCode": "εºÉ",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -460,7 +460,7 @@
     {
       "name": "Margin medium",
       "filename": "P Margin medium",
-      "iconCode": "εºæ",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -468,7 +468,7 @@
     {
       "name": "Margin small",
       "filename": "P Margin small",
-      "iconCode": "εºÆ",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -476,7 +476,7 @@
     {
       "name": "US College",
       "filename": "P US College",
-      "iconCode": "εºÿ",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -484,7 +484,7 @@
     {
       "name": "US Legal",
       "filename": "P US Legal",
-      "iconCode": "εºÖ",
+      "iconCode": "",
       "categories": [
         "Lines"
       ]
@@ -492,7 +492,7 @@
     {
       "name": "Weekplanner 1",
       "filename": "P Week",
-      "iconCode": "εº£",
+      "iconCode": "",
       "categories": [
         "Life/organize"
       ]
@@ -500,7 +500,7 @@
     {
       "name": "Weekplanner 2",
       "filename": "P Week 2",
-      "iconCode": "εºÜ",
+      "iconCode": "",
       "categories": [
         "Life/organize"
       ]
@@ -508,7 +508,7 @@
     {
       "name": "Weekplanner US",
       "filename": "P Week US",
-      "iconCode": "εº¢",
+      "iconCode": "",
       "categories": [
         "Life/organize"
       ]
@@ -516,7 +516,7 @@
     {
       "name": "Isometric",
       "filename": "Isometric",
-      "iconCode": "ε¿Ç",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -524,7 +524,7 @@
     {
       "name": "Perspective 1",
       "filename": "Perspective1",
-      "iconCode": "εºò",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -532,7 +532,7 @@
     {
       "name": "Perspective 2",
       "filename": "Perspective2",
-      "iconCode": "εºû",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -540,7 +540,7 @@
     {
       "name": "Calligraphy large",
       "filename": "LS Calligraphy large",
-      "iconCode": "εªÉ",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative",
@@ -550,7 +550,7 @@
     {
       "name": "Calligraphy medium",
       "filename": "LS Calligraphy medium",
-      "iconCode": "εªí",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative",
@@ -560,7 +560,7 @@
     {
       "name": "Piano sheet large",
       "filename": "LS Piano sheet large",
-      "iconCode": "εÑ░",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative"
@@ -569,7 +569,7 @@
     {
       "name": "Piano sheet medium",
       "filename": "LS Piano sheet medium",
-      "iconCode": "εÑ╡",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative"
@@ -578,7 +578,7 @@
     {
       "name": "Piano sheet small",
       "filename": "LS Piano sheet small",
-      "iconCode": "εÑ╢",
+      "iconCode": "",
       "landscape": true,
       "categories": [
         "Creative"
@@ -587,7 +587,7 @@
     {
       "name": "Calligraphy large",
       "filename": "P Calligraphy large",
-      "iconCode": "εªì",
+      "iconCode": "",
       "categories": [
         "Creative",
         "Lines"
@@ -596,7 +596,7 @@
     {
       "name": "Calligraphy medium",
       "filename": "P Calligraphy medium",
-      "iconCode": "εªÄ",
+      "iconCode": "",
       "categories": [
         "Creative",
         "Lines"
@@ -605,7 +605,7 @@
     {
       "name": "Music",
       "filename": "Notes",
-      "iconCode": "εºô",
+      "iconCode": "",
       "categories": [
         "Lines",
         "Creative"
@@ -614,7 +614,7 @@
     {
       "name": "Bass tablature",
       "filename": "P Bass tab",
-      "iconCode": "εºÇ",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -622,7 +622,7 @@
     {
       "name": "Guitar chords",
       "filename": "P Guitar chords",
-      "iconCode": "εª▓",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -630,7 +630,7 @@
     {
       "name": "Guitar tablature",
       "filename": "P Guitar tab",
-      "iconCode": "εºà",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -638,7 +638,7 @@
     {
       "name": "Piano sheet large",
       "filename": "P Piano sheet large",
-      "iconCode": "εÑ╖",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -646,7 +646,7 @@
     {
       "name": "Piano sheet medium",
       "filename": "P Piano sheet medium",
-      "iconCode": "εÑ╕",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -654,7 +654,7 @@
     {
       "name": "Piano sheet small",
       "filename": "P Piano sheet small",
-      "iconCode": "εÑ╣",
+      "iconCode": "",
       "categories": [
         "Creative"
       ]
@@ -662,7 +662,7 @@
     {
       "name": "Hexagon large",
       "filename": "P Hexagon large",
-      "iconCode": "εÑ╗",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -670,7 +670,7 @@
     {
       "name": "Hexagon medium",
       "filename": "P Hexagon medium",
-      "iconCode": "εªé",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -678,7 +678,7 @@
     {
       "name": "Hexagon small",
       "filename": "P Hexagon small",
-      "iconCode": "εªî",
+      "iconCode": "",
       "categories": [
         "Grids"
       ]
@@ -686,7 +686,7 @@
     {
       "name": "Inbox Project",
       "filename": "project_inbox",
-      "iconCode": "εªÅ",
+      "iconCode": "",
       "categories": [
         "Life/organize",
         "GTD",
@@ -696,7 +696,7 @@
     {
       "name": "Inbox",
       "filename": "inbox",
-      "iconCode": "εªÅ",
+      "iconCode": "",
       "categories": [
         "Life/organize",
         "GTD",
@@ -706,7 +706,7 @@
     {
       "name": "Checklist lined",
       "filename": "checklist_portrait",
-      "iconCode": "εªÅ",
+      "iconCode": "",
       "categories": [
         "Life/organize",
         "Custom"
@@ -715,7 +715,7 @@
     {
       "name": "Dots micro",
       "filename": "dots_micro",
-      "iconCode": "εªò",
+      "iconCode": "",
       "categories": [
         "Creative",
         "Grids",
@@ -725,7 +725,7 @@
     {
       "name": "Grid micro",
       "filename": "grid_micro",
-      "iconCode": "εª₧",
+      "iconCode": "",
       "categories": [
         "Grids",
         "Custom"
