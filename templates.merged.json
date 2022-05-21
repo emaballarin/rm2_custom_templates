@@ -1,0 +1,735 @@
+{
+  "templates": [
+    {
+      "name": "Blank",
+      "filename": "Blank",
+      "iconCode": "εº╛",
+      "categories": [
+        "Creative",
+        "Lines",
+        "Grids",
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Blank",
+      "filename": "Blank",
+      "iconCode": "εº╜",
+      "landscape": true,
+      "categories": [
+        "Creative",
+        "Lines",
+        "Grids",
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Checklist double",
+      "filename": "LS Checklist double",
+      "iconCode": "εª¬",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Checklist",
+      "filename": "LS Checklist",
+      "iconCode": "εª½",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Dayplanner",
+      "filename": "LS Dayplanner",
+      "iconCode": "εª¼",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Dots bottom",
+      "filename": "LS Dots bottom",
+      "iconCode": "εª¡",
+      "landscape": true,
+      "categories": [
+        "Creative",
+        "Grids"
+      ]
+    },
+    {
+      "name": "Dots top",
+      "filename": "LS Dots top",
+      "iconCode": "εª┤",
+      "landscape": true,
+      "categories": [
+        "Creative",
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid bottom",
+      "filename": "LS Grid bottom",
+      "iconCode": "εª╢",
+      "landscape": true,
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid margin large",
+      "filename": "LS Grid margin large",
+      "iconCode": "εª╝",
+      "landscape": true,
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid margin med",
+      "filename": "LS Grid margin med",
+      "iconCode": "εºë",
+      "landscape": true,
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid top",
+      "filename": "LS Grid top",
+      "iconCode": "εª╖",
+      "landscape": true,
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Lined bottom",
+      "filename": "LS Lines bottom",
+      "iconCode": "εª║",
+      "landscape": true,
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Lined medium",
+      "filename": "LS Lines medium",
+      "iconCode": "εª╕",
+      "landscape": true,
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Lined small",
+      "filename": "LS Lines small",
+      "iconCode": "εª╣",
+      "landscape": true,
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Lined top",
+      "filename": "LS Lines top",
+      "iconCode": "εª╗",
+      "landscape": true,
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Margin medium",
+      "filename": "LS Margin medium",
+      "iconCode": "εºê",
+      "landscape": true,
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Margin small",
+      "filename": "LS Margin small",
+      "iconCode": "εºè",
+      "landscape": true,
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "One storyboard 1",
+      "filename": "LS One storyboard",
+      "iconCode": "εºî",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "One storyboard 2",
+      "filename": "LS One storyboard 2",
+      "iconCode": "εºï",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "One storyboard",
+      "filename": "P One storyboard",
+      "iconCode": "εºö",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Two storyboards",
+      "filename": "P Two storyboards",
+      "iconCode": "εºù",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Two storyboards",
+      "filename": "LS Two storyboards",
+      "iconCode": "εºì",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Four storyboards",
+      "filename": "LS Four storyboards",
+      "iconCode": "εª╡",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Four storyboards",
+      "filename": "P Four storyboards",
+      "iconCode": "εªù",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Weekplanner US",
+      "filename": "LS Week US",
+      "iconCode": "εºÄ",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Weekplanner",
+      "filename": "LS Week",
+      "iconCode": "εºÅ",
+      "landscape": true,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Checklist",
+      "filename": "P Checklist",
+      "iconCode": "εªÅ",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Cornell",
+      "filename": "P Cornell",
+      "iconCode": "εº┐",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Dayplanner",
+      "filename": "P Day",
+      "iconCode": "εªæ",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Dots S bottom",
+      "filename": "P Dots S bottom",
+      "iconCode": "εªô",
+      "categories": [
+        "Creative",
+        "Grids"
+      ]
+    },
+    {
+      "name": "Dots S top",
+      "filename": "P Dots S top",
+      "iconCode": "εªû",
+      "categories": [
+        "Creative",
+        "Grids"
+      ]
+    },
+    {
+      "name": "Dots S",
+      "filename": "P Dots S",
+      "iconCode": "εªò",
+      "categories": [
+        "Creative",
+        "Grids"
+      ]
+    },
+    {
+      "name": "Dots large",
+      "filename": "P Dots large",
+      "iconCode": "εªö",
+      "categories": [
+        "Creative",
+        "Grids"
+      ]
+    },
+    {
+      "name": "Dots S",
+      "filename": "P Dots S",
+      "iconCode": "εº╣",
+      "landscape": true,
+      "categories": [
+        "Creative",
+        "Grids"
+      ]
+    },
+    {
+      "name": "Dots large",
+      "filename": "P Dots large",
+      "iconCode": "εº╕",
+      "landscape": true,
+      "categories": [
+        "Creative",
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid bottom",
+      "filename": "P Grid bottom",
+      "iconCode": "εªÖ",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid large",
+      "filename": "P Grid large",
+      "iconCode": "εªÜ",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid medium",
+      "filename": "P Grid medium",
+      "iconCode": "εª¥",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid small",
+      "filename": "P Grid small",
+      "iconCode": "εª₧",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid large",
+      "filename": "P Grid large",
+      "iconCode": "εº╝",
+      "landscape": true,
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid medium",
+      "filename": "P Grid medium",
+      "iconCode": "εº╗",
+      "landscape": true,
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid small",
+      "filename": "P Grid small",
+      "iconCode": "εº║",
+      "landscape": true,
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid margin large",
+      "filename": "P Grid margin large",
+      "iconCode": "εª¢",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid margin med",
+      "filename": "P Grid margin med",
+      "iconCode": "εª£",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Grid top",
+      "filename": "P Grid top",
+      "iconCode": "εªƒ",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Lined bottom",
+      "filename": "P Lined bottom",
+      "iconCode": "εªÑ",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Lined heading",
+      "filename": "P Lined heading",
+      "iconCode": "εªá",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Lined top",
+      "filename": "P Lined top",
+      "iconCode": "εª⌐",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Lined large",
+      "filename": "P Lines large",
+      "iconCode": "εªª",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Lined medium",
+      "filename": "P Lines medium",
+      "iconCode": "εªº",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Lined small",
+      "filename": "P Lines small",
+      "iconCode": "εª¿",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Margin large",
+      "filename": "P Margin large",
+      "iconCode": "εºÉ",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Margin medium",
+      "filename": "P Margin medium",
+      "iconCode": "εºæ",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Margin small",
+      "filename": "P Margin small",
+      "iconCode": "εºÆ",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "US College",
+      "filename": "P US College",
+      "iconCode": "εºÿ",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "US Legal",
+      "filename": "P US Legal",
+      "iconCode": "εºÖ",
+      "categories": [
+        "Lines"
+      ]
+    },
+    {
+      "name": "Weekplanner 1",
+      "filename": "P Week",
+      "iconCode": "εº£",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Weekplanner 2",
+      "filename": "P Week 2",
+      "iconCode": "εºÜ",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Weekplanner US",
+      "filename": "P Week US",
+      "iconCode": "εº¢",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Isometric",
+      "filename": "Isometric",
+      "iconCode": "ε¿Ç",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Perspective 1",
+      "filename": "Perspective1",
+      "iconCode": "εºò",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Perspective 2",
+      "filename": "Perspective2",
+      "iconCode": "εºû",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Calligraphy large",
+      "filename": "LS Calligraphy large",
+      "iconCode": "εªÉ",
+      "landscape": true,
+      "categories": [
+        "Creative",
+        "Lines"
+      ]
+    },
+    {
+      "name": "Calligraphy medium",
+      "filename": "LS Calligraphy medium",
+      "iconCode": "εªí",
+      "landscape": true,
+      "categories": [
+        "Creative",
+        "Lines"
+      ]
+    },
+    {
+      "name": "Piano sheet large",
+      "filename": "LS Piano sheet large",
+      "iconCode": "εÑ░",
+      "landscape": true,
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Piano sheet medium",
+      "filename": "LS Piano sheet medium",
+      "iconCode": "εÑ╡",
+      "landscape": true,
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Piano sheet small",
+      "filename": "LS Piano sheet small",
+      "iconCode": "εÑ╢",
+      "landscape": true,
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Calligraphy large",
+      "filename": "P Calligraphy large",
+      "iconCode": "εªì",
+      "categories": [
+        "Creative",
+        "Lines"
+      ]
+    },
+    {
+      "name": "Calligraphy medium",
+      "filename": "P Calligraphy medium",
+      "iconCode": "εªÄ",
+      "categories": [
+        "Creative",
+        "Lines"
+      ]
+    },
+    {
+      "name": "Music",
+      "filename": "Notes",
+      "iconCode": "εºô",
+      "categories": [
+        "Lines",
+        "Creative"
+      ]
+    },
+    {
+      "name": "Bass tablature",
+      "filename": "P Bass tab",
+      "iconCode": "εºÇ",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Guitar chords",
+      "filename": "P Guitar chords",
+      "iconCode": "εª▓",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Guitar tablature",
+      "filename": "P Guitar tab",
+      "iconCode": "εºà",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Piano sheet large",
+      "filename": "P Piano sheet large",
+      "iconCode": "εÑ╖",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Piano sheet medium",
+      "filename": "P Piano sheet medium",
+      "iconCode": "εÑ╕",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Piano sheet small",
+      "filename": "P Piano sheet small",
+      "iconCode": "εÑ╣",
+      "categories": [
+        "Creative"
+      ]
+    },
+    {
+      "name": "Hexagon large",
+      "filename": "P Hexagon large",
+      "iconCode": "εÑ╗",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Hexagon medium",
+      "filename": "P Hexagon medium",
+      "iconCode": "εªé",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Hexagon small",
+      "filename": "P Hexagon small",
+      "iconCode": "εªî",
+      "categories": [
+        "Grids"
+      ]
+    },
+    {
+      "name": "Inbox Project",
+      "filename": "project_inbox",
+      "iconCode": "εªÅ",
+      "categories": [
+        "Life/organize",
+        "GTD",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Inbox",
+      "filename": "inbox",
+      "iconCode": "εªÅ",
+      "categories": [
+        "Life/organize",
+        "GTD",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Checklist lined",
+      "filename": "checklist_portrait",
+      "iconCode": "εªÅ",
+      "categories": [
+        "Life/organize",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Dots micro",
+      "filename": "dots_micro",
+      "iconCode": "εªò",
+      "categories": [
+        "Creative",
+        "Grids",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Grid micro",
+      "filename": "grid_micro",
+      "iconCode": "εª₧",
+      "categories": [
+        "Grids",
+        "Custom"
+      ]
+    }
+  ]
+}
